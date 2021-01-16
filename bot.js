@@ -695,4 +695,5 @@ message.channel.sendEmbed(embed);
     }
 });
 
-  client.login(".Nzk5MjU2NjA5MjEyODU4Mzkx.YAA7uQ.XzJUFv9zSR-biPEP0VXGGBJW1Ow.");
+  client.login(".Nzk5MjU2NjA5MjEyODU4Mzkx.YAA7uQ.PfTBsK8FvUY0N7qWgfq-WFkU8ps
+.");
